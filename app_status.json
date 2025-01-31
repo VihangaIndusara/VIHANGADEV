@@ -2,5 +2,6 @@
   "Message": "This app has been temporarily disabled by the developer.\n\nReason: Incomplete payment, unpaid dues, or misuse of the product.\n\nIf you believe this is an error or need further assistance, please contact the developer via the following channels:\n\n- Email: vihangadev@gmail.com\n- WhatsApp: +94713853355\n- Telegram: @SupremeDev99\n\nWe apologize for any inconvenience caused. The affected source code has been disabled until further notice.",
 "dev.vihanga.aitunnel": false,
 "dev.vij.dynamictunnel": false,
-"dev.vij.jwtunnellite": false
+"dev.vij.jwtunnellite": false,
+"dev.vij.aitunnellite": true
 }
