@@ -3,5 +3,5 @@
 "dev.vihanga.aitunnel": false,
 "dev.vij.dynamictunnel": false,
 "dev.vij.jwtunnellite": false,
-"dev.vij.aitunnellite": true
+"dev.vij.aitunnellite": false
 }
